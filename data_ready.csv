@@ -1,0 +1,333 @@
+Herausgeber;Link;Kurzbeschreibung;Filter
+LGRB - Landesamt für Geologie, Rohstoffe und Bergbau;https://maps.lgrb-bw.de;Sammlung offizieller Karten zu physisch-geographischen Themen wie der Geologischen Karte 1:50.000 (GK50). WMS-Links können auch als WFS eingebaut und heruntergeladen werden.;Baden-Wuerttemberg
+LGRB - Landesamt für Geologie, Rohstoffe und Bergbau;https://maps.lgrb-bw.de;Sammlung offizieller Karten zu physisch-geographischen Themen wie der Geologischen Karte 1:50.000 (GK50). WMS-Links können auch als WFS eingebaut und heruntergeladen werden.;Physisch-Geographisch
+LGRB - Landesamt für Geologie, Rohstoffe und Bergbau;https://maps.lgrb-bw.de;Sammlung offizieller Karten zu physisch-geographischen Themen wie der Geologischen Karte 1:50.000 (GK50). WMS-Links können auch als WFS eingebaut und heruntergeladen werden.;Geologie-Boden
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Baden-Wuerttemberg
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Physisch-Geographisch
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Flora-Fauna
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Hydrologie
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Umweltdaten
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://udo.lubw.baden-wuerttemberg.de/public/index.xhtml;Verschiedenste offizielle Umweltdaten.;Klima-Wetter
+LGL - Landesamt für Geoinformation und Landentwicklung;https://opengeodata.lgl-bw.de/#/;Administrative Daten wie Flurstücke und Geobasisdaten wie ein hochaufgelöstes digitales Geländemodell;Baden-Wuerttemberg
+LGL - Landesamt für Geoinformation und Landentwicklung;https://opengeodata.lgl-bw.de/#/;Administrative Daten wie Flurstücke und Geobasisdaten wie ein hochaufgelöstes digitales Geländemodell;Physisch-Geographisch
+LGL - Landesamt für Geoinformation und Landentwicklung;https://opengeodata.lgl-bw.de/#/;Administrative Daten wie Flurstücke und Geobasisdaten wie ein hochaufgelöstes digitales Geländemodell;Humangeographisch
+LGL - Landesamt für Geoinformation und Landentwicklung;https://opengeodata.lgl-bw.de/#/;Administrative Daten wie Flurstücke und Geobasisdaten wie ein hochaufgelöstes digitales Geländemodell;Administrativ
+LGL - Landesamt für Geoinformation und Landentwicklung;https://opengeodata.lgl-bw.de/#/;Administrative Daten wie Flurstücke und Geobasisdaten wie ein hochaufgelöstes digitales Geländemodell;DHM
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/landesweite-artenkartierung-lak;Landesweite Artenkartierung (Verbreitungsgebiete oder -häufigkeiten auf Blattschnitteinteilung ausgewählter Tierarten);Baden-Wuerttemberg
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/landesweite-artenkartierung-lak;Landesweite Artenkartierung (Verbreitungsgebiete oder -häufigkeiten auf Blattschnitteinteilung ausgewählter Tierarten);Physisch-Geographisch
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/landesweite-artenkartierung-lak;Landesweite Artenkartierung (Verbreitungsgebiete oder -häufigkeiten auf Blattschnitteinteilung ausgewählter Tierarten);Flora-Fauna
+LUBW - Landesanstalt für Umwelt Baden-Württemberg;https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/landesweite-artenkartierung-lak;Landesweite Artenkartierung (Verbreitungsgebiete oder -häufigkeiten auf Blattschnitteinteilung ausgewählter Tierarten);Umweltdaten
+DWD - Deutscher Wetterdienst;https://opendata.dwd.de;Standarddatensätze zu Wetter, Witterung, Klima und Phänologie in Deutschland.;Physisch-Geographisch
+DWD - Deutscher Wetterdienst;https://opendata.dwd.de;Standarddatensätze zu Wetter, Witterung, Klima und Phänologie in Deutschland.;Klima-Wetter
+FITKO – Föderale IT-Kooperation;https://www.govdata.de;;Deutschland
+FITKO – Föderale IT-Kooperation;https://www.govdata.de;;Humangeographisch
+FITKO – Föderale IT-Kooperation;https://www.govdata.de;;Administrativ
+FITKO – Föderale IT-Kooperation;https://www.govdata.de;;Wirtschaft
+FITKO – Föderale IT-Kooperation;https://www.govdata.de;;Bevoelkerung
+Zensus 2011;https://atlas.zensus2011.de/;Demographische Daten auf 100x100m Gitter, Download als Tabelle unter „Open Data“ [+Join mit Gitter-Shapefile für Zuordnung;Deutschland
+Zensus 2011;https://atlas.zensus2011.de/;Demographische Daten auf 100x100m Gitter, Download als Tabelle unter „Open Data“ [+Join mit Gitter-Shapefile für Zuordnung;Humangeographisch
+Zensus 2011;https://atlas.zensus2011.de/;Demographische Daten auf 100x100m Gitter, Download als Tabelle unter „Open Data“ [+Join mit Gitter-Shapefile für Zuordnung;Administrativ
+Zensus 2011;https://atlas.zensus2011.de/;Demographische Daten auf 100x100m Gitter, Download als Tabelle unter „Open Data“ [+Join mit Gitter-Shapefile für Zuordnung;Wirtschaft
+Zensus 2011;https://atlas.zensus2011.de/;Demographische Daten auf 100x100m Gitter, Download als Tabelle unter „Open Data“ [+Join mit Gitter-Shapefile für Zuordnung;Bevoelkerung
+Ökosystematlas;https://oekosystematlas-ugr.destatis.de/;;Deutschland
+Ökosystematlas;https://oekosystematlas-ugr.destatis.de/;;Physisch-Geographisch
+Ökosystematlas;https://oekosystematlas-ugr.destatis.de/;;Flora-Fauna
+Ökosystematlas;https://oekosystematlas-ugr.destatis.de/;;Umweltdaten
+Unfallatlas;https://unfallatlas.statistikportal.de/;Sammlung polizeilich erfasster Unfalldaten mit Lagebezug und umfangreichen Attributdaten;Deutschland
+Unfallatlas;https://unfallatlas.statistikportal.de/;Sammlung polizeilich erfasster Unfalldaten mit Lagebezug und umfangreichen Attributdaten;Humangeographisch
+Unfallatlas;https://unfallatlas.statistikportal.de/;Sammlung polizeilich erfasster Unfalldaten mit Lagebezug und umfangreichen Attributdaten;Administrativ
+Unfallatlas;https://unfallatlas.statistikportal.de/;Sammlung polizeilich erfasster Unfalldaten mit Lagebezug und umfangreichen Attributdaten;Staedte
+Unfallatlas;https://unfallatlas.statistikportal.de/;Sammlung polizeilich erfasster Unfalldaten mit Lagebezug und umfangreichen Attributdaten;Katastrophen
+Copernicus Land Monitoring Service;https://land.copernicus.eu/en/dataset-catalog;;Europa
+Copernicus Land Monitoring Service;https://land.copernicus.eu/en/dataset-catalog;;Physisch-Geographisch
+Copernicus Land Monitoring Service;https://land.copernicus.eu/en/dataset-catalog;;Landbedeckung
+Copernicus Urban Atlas;https://land.copernicus.eu/en/products/urban-atlas;Sammlung verschiedenster Daten im städtischen Kontext (Gebäudehöhen, Straßenbäume, etc.);Europa
+Copernicus Urban Atlas;https://land.copernicus.eu/en/products/urban-atlas;Sammlung verschiedenster Daten im städtischen Kontext (Gebäudehöhen, Straßenbäume, etc.);Humangeographisch
+Copernicus Urban Atlas;https://land.copernicus.eu/en/products/urban-atlas;Sammlung verschiedenster Daten im städtischen Kontext (Gebäudehöhen, Straßenbäume, etc.);Staedte
+Copernicus Emergency Monitoring Service;https://emergency.copernicus.eu;Schadenskartierung  z.B. der Hochwasserausdehnung vergangener Katatstrophen;Europa
+Copernicus Emergency Monitoring Service;https://emergency.copernicus.eu;Schadenskartierung  z.B. der Hochwasserausdehnung vergangener Katatstrophen;Physisch-Geographisch
+Copernicus Emergency Monitoring Service;https://emergency.copernicus.eu;Schadenskartierung  z.B. der Hochwasserausdehnung vergangener Katatstrophen;Katastrophen
+Copernicus Emergency Monitoring Service;https://emergency.copernicus.eu;Schadenskartierung  z.B. der Hochwasserausdehnung vergangener Katatstrophen;Hydrologie
+Copernicus Marine Service;https://marine.copernicus.eu/;;Europa
+Copernicus Marine Service;https://marine.copernicus.eu/;;Physisch-Geographisch
+Copernicus Marine Service;https://marine.copernicus.eu/;;Maritim
+Copernicus Marine Service;https://marine.copernicus.eu/;;Hydrologie
+ESA S2GLC;https://s2glc.cbk.waw.pl/extension;Europaweit einheitliche Landnutzungskartierung [14 Klassen] aus Sentinel-Daten in einer Auflösung von 10 m für das Jahr 2017;Europa
+ESA S2GLC;https://s2glc.cbk.waw.pl/extension;Europaweit einheitliche Landnutzungskartierung [14 Klassen] aus Sentinel-Daten in einer Auflösung von 10 m für das Jahr 2017;Physisch-Geographisch
+ESA S2GLC;https://s2glc.cbk.waw.pl/extension;Europaweit einheitliche Landnutzungskartierung [14 Klassen] aus Sentinel-Daten in einer Auflösung von 10 m für das Jahr 2017;Landbedeckung
+Natural Earth Data;https://www.naturalearthdata.com/downloads/;Hauptsächlich topographische Informationen wie Landesgrenzen, Küsten, etc.;Global
+Natural Earth Data;https://www.naturalearthdata.com/downloads/;Hauptsächlich topographische Informationen wie Landesgrenzen, Küsten, etc.;Physisch-Geographisch
+Natural Earth Data;https://www.naturalearthdata.com/downloads/;Hauptsächlich topographische Informationen wie Landesgrenzen, Küsten, etc.;Humangeographisch
+Natural Earth Data;https://www.naturalearthdata.com/downloads/;Hauptsächlich topographische Informationen wie Landesgrenzen, Küsten, etc.;Administrativ
+Natural Earth Data;https://www.naturalearthdata.com/downloads/;Hauptsächlich topographische Informationen wie Landesgrenzen, Küsten, etc.;Maritim
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Global
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Physisch-Geographisch
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Humangeographisch
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Sonstige
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Staedte
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Katastrophen
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Wirtschaft
+ArcGIS Hub;https://hub.arcgis.com/search;Verschiedenste von Esri zu Verfügung gestellte Daten;Umweltdaten
+WIR - World Resources Institute (Global Forest Watch);https://data.globalforestwatch.org;Aktuelle Daten aus dem globalen Waldmonitoring;Global
+WIR - World Resources Institute (Global Forest Watch);https://data.globalforestwatch.org;Aktuelle Daten aus dem globalen Waldmonitoring;Physisch-Geographisch
+WIR - World Resources Institute (Global Forest Watch);https://data.globalforestwatch.org;Aktuelle Daten aus dem globalen Waldmonitoring;Flora-Fauna
+WIR - World Resources Institute (Global Forest Watch);https://data.globalforestwatch.org;Aktuelle Daten aus dem globalen Waldmonitoring;Umweltdaten
+ESA WorldCover;https://viewer.esa-worldcover.org/worldcover/;Globale Landnutzungsdaten aus Sentinel-2 Daten in 10m Auflösung [11 Klassen];Global
+ESA WorldCover;https://viewer.esa-worldcover.org/worldcover/;Globale Landnutzungsdaten aus Sentinel-2 Daten in 10m Auflösung [11 Klassen];Physisch-Geographisch
+ESA WorldCover;https://viewer.esa-worldcover.org/worldcover/;Globale Landnutzungsdaten aus Sentinel-2 Daten in 10m Auflösung [11 Klassen];Landbedeckung
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Global
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Humangeographisch
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Administrativ
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Staedte
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Landnutzung
+GeoFabrik (OpenStreetMap);http://download.geofabrik.de/index.html;Zugang zu den Open Street Map – Daten, gegliedert nach administrativen Grenzen, z.B. Regierungsbezirk Tübingen;Wirtschaft
+Microsoft Building Footprints;https://github.com/microsoft/GlobalMLBuildingFootprints;;Global
+Microsoft Building Footprints;https://github.com/microsoft/GlobalMLBuildingFootprints;;Humangeographisch
+Microsoft Building Footprints;https://github.com/microsoft/GlobalMLBuildingFootprints;;Staedte
+Microsoft Building Footprints;https://github.com/microsoft/GlobalMLBuildingFootprints;;Landnutzung
+Google Open Buildings;https://sites.research.google/open-buildings/;;Afrika
+Google Open Buildings;https://sites.research.google/open-buildings/;;Humangeographisch
+Google Open Buildings;https://sites.research.google/open-buildings/;;Staedte
+Google Open Buildings;https://sites.research.google/open-buildings/;;Landnutzung
+WorldClim;https://www.worldclim.org;Globale Klimadaten;Global
+WorldClim;https://www.worldclim.org;Globale Klimadaten;Physisch-Geographisch
+WorldClim;https://www.worldclim.org;Globale Klimadaten;Klima-Wetter
+Copernicus Climate Data Store;https://cds.climate.copernicus.eu/datasets;Unterschiedlichste temporale Datensätze zum globalen Klima. Von tagesgenauen Niederschlagswerten seit 1950, bis hin zur Entwicklung der Eisfläche an den Polen.;Global
+Copernicus Climate Data Store;https://cds.climate.copernicus.eu/datasets;Unterschiedlichste temporale Datensätze zum globalen Klima. Von tagesgenauen Niederschlagswerten seit 1950, bis hin zur Entwicklung der Eisfläche an den Polen.;Physisch-Geographisch
+Copernicus Climate Data Store;https://cds.climate.copernicus.eu/datasets;Unterschiedlichste temporale Datensätze zum globalen Klima. Von tagesgenauen Niederschlagswerten seit 1950, bis hin zur Entwicklung der Eisfläche an den Polen.;Klima-Wetter
+Copernicus Climate Data Store;https://cds.climate.copernicus.eu/datasets;Unterschiedlichste temporale Datensätze zum globalen Klima. Von tagesgenauen Niederschlagswerten seit 1950, bis hin zur Entwicklung der Eisfläche an den Polen.;Hydrologie
+ECMWF real-time forecast data;https://www.ecmwf.int/en/forecasts/datasets/open-data;Echtzeit-Vorhersagen für das globale Wettergeschehen.;Global
+ECMWF real-time forecast data;https://www.ecmwf.int/en/forecasts/datasets/open-data;Echtzeit-Vorhersagen für das globale Wettergeschehen.;Physisch-Geographisch
+ECMWF real-time forecast data;https://www.ecmwf.int/en/forecasts/datasets/open-data;Echtzeit-Vorhersagen für das globale Wettergeschehen.;Klima-Wetter
+SoildGrids;https://soilgrids.org;Globale verfügbare Bodeninformationen in 250m räumlicher Auflösung.;Global
+SoildGrids;https://soilgrids.org;Globale verfügbare Bodeninformationen in 250m räumlicher Auflösung.;Physisch-Geographisch
+SoildGrids;https://soilgrids.org;Globale verfügbare Bodeninformationen in 250m räumlicher Auflösung.;Geologie-Boden
+JAXA Global Rainfall;https://sharaku.eorc.jaxa.jp/GSMaP/;;Global
+JAXA Global Rainfall;https://sharaku.eorc.jaxa.jp/GSMaP/;;Physisch-Geographisch
+JAXA Global Rainfall;https://sharaku.eorc.jaxa.jp/GSMaP/;;Klima-Wetter
+Global Forest Canopy Height;https://glad.umd.edu/dataset/gedi;Abschätzung der Kronenhöhe von Wäldern im globalen Maßstab;Global
+Global Forest Canopy Height;https://glad.umd.edu/dataset/gedi;Abschätzung der Kronenhöhe von Wäldern im globalen Maßstab;Physisch-Geographisch
+Global Forest Canopy Height;https://glad.umd.edu/dataset/gedi;Abschätzung der Kronenhöhe von Wäldern im globalen Maßstab;Flora-Fauna
+Global Forest Canopy Height;https://glad.umd.edu/dataset/gedi;Abschätzung der Kronenhöhe von Wäldern im globalen Maßstab;Umweltdaten
+Monthly cloud-free nighttime data;https://eogdata.mines.edu/products/vnl/;;Global
+Monthly cloud-free nighttime data;https://eogdata.mines.edu/products/vnl/;;Physisch-Geographisch
+Monthly cloud-free nighttime data;https://eogdata.mines.edu/products/vnl/;;Humangeographisch
+Monthly cloud-free nighttime data;https://eogdata.mines.edu/products/vnl/;;Fernerkundung
+Monthly cloud-free nighttime data;https://eogdata.mines.edu/products/vnl/;;Staedte
+GHSL - Global Human Settlement Layer;https://ghsl.jrc.ec.europa.eu/index.php;;Global
+GHSL - Global Human Settlement Layer;https://ghsl.jrc.ec.europa.eu/index.php;;Humangeographisch
+GHSL - Global Human Settlement Layer;https://ghsl.jrc.ec.europa.eu/index.php;;Wirtschaft
+GHSL - Global Human Settlement Layer;https://ghsl.jrc.ec.europa.eu/index.php;;Staedte
+GHSL - Global Human Settlement Layer;https://ghsl.jrc.ec.europa.eu/index.php;;Bevoelkerung
+WRI - World Resources Institute;https://datasets.wri.org;;Global
+WRI - World Resources Institute;https://datasets.wri.org;;Physisch-Geographisch
+WRI - World Resources Institute;https://datasets.wri.org;;Humangeographisch
+WRI - World Resources Institute;https://datasets.wri.org;;Klima-Wetter
+WRI - World Resources Institute;https://datasets.wri.org;;Umweltdaten
+WRI - World Resources Institute;https://datasets.wri.org;;Landbedeckung
+WRI - World Resources Institute;https://datasets.wri.org;;Wirtschaft
+WRI - World Resources Institute;https://datasets.wri.org;;Staedte
+World Bank;https://datacatalog.worldbank.org/search;;Global
+World Bank;https://datacatalog.worldbank.org/search;;Humangeographisch
+World Bank;https://datacatalog.worldbank.org/search;;Wirtschaft
+World Bank;https://datacatalog.worldbank.org/search;;Staedte
+World Bank;https://datacatalog.worldbank.org/search;;Bevoelkerung
+WorldPop;https://www.worldpop.org/;;Global
+WorldPop;https://www.worldpop.org/;;Humangeographisch
+WorldPop;https://www.worldpop.org/;;Wirtschaft
+WorldPop;https://www.worldpop.org/;;Staedte
+WorldPop;https://www.worldpop.org/;;Bevoelkerung
+Global Observation and Biodiversity Information Portal;https://globil-panda.opendata.arcgis.com;;Global
+Global Observation and Biodiversity Information Portal;https://globil-panda.opendata.arcgis.com;;Physisch-Geographisch
+Global Observation and Biodiversity Information Portal;https://globil-panda.opendata.arcgis.com;;Flora-Fauna
+Global Observation and Biodiversity Information Portal;https://globil-panda.opendata.arcgis.com;;Umweltdaten
+United Nations Environment Program;https://wesr.unep.org/;;Global
+United Nations Environment Program;https://wesr.unep.org/;;Physisch-Geographisch
+United Nations Environment Program;https://wesr.unep.org/;;Flora-Fauna
+United Nations Environment Program;https://wesr.unep.org/;;Umweltdaten
+United Nations Environment Program;https://wesr.unep.org/;;Klima-Wetter
+FAO - Food and Agricultural Organization;https://data.apps.fao.org/map/catalog/srv/eng/catalog.search;;Global
+FAO - Food and Agricultural Organization;https://data.apps.fao.org/map/catalog/srv/eng/catalog.search;;Humangeographisch
+FAO - Food and Agricultural Organization;https://data.apps.fao.org/map/catalog/srv/eng/catalog.search;;Landwirtschaft
+FAO - Food and Agricultural Organization;https://data.apps.fao.org/map/catalog/srv/eng/catalog.search;;Administrativ
+SEDAC - Socioeconomic Data and Applications Center;https://sedac.ciesin.columbia.edu/data/sets/browse;;Global
+SEDAC - Socioeconomic Data and Applications Center;https://sedac.ciesin.columbia.edu/data/sets/browse;;Humangeographisch
+SEDAC - Socioeconomic Data and Applications Center;https://sedac.ciesin.columbia.edu/data/sets/browse;;Wirtschaft
+SEDAC - Socioeconomic Data and Applications Center;https://sedac.ciesin.columbia.edu/data/sets/browse;;Bevoelkerung
+SEDAC - Socioeconomic Data and Applications Center;https://sedac.ciesin.columbia.edu/data/sets/browse;;Staedte
+Zenodo;https://zenodo.org;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Global
+Zenodo;https://zenodo.org;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Physisch-Geographisch
+Zenodo;https://zenodo.org;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Humangeographisch
+Figshare;https://figshare.com;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Global
+Figshare;https://figshare.com;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Physisch-Geographisch
+Figshare;https://figshare.com;Diverse Datensätze aus der Forschung (meist in Abhängigkeit zu einer Publikation);Humangeographisch
+gisgeogrpahy.com;https://gisgeography.com/best-free-gis-data-sources-raster-vector/;Artikel mit weiteren Datenquellen;Global
+gisgeogrpahy.com;https://gisgeography.com/best-free-gis-data-sources-raster-vector/;Artikel mit weiteren Datenquellen;Sonstige
+gisgeogrpahy.com;https://gisgeography.com/best-free-gis-data-sources-raster-vector/;Artikel mit weiteren Datenquellen;Artikel
+Copernicus Data Space Ecosystem;https://dataspace.copernicus.eu/browser/;Offizielles Protal der ESA zum Download von Sentinel Daten (Nachfolger von Sentinel Open Access Hub) - empfohlen;Global
+Copernicus Data Space Ecosystem;https://dataspace.copernicus.eu/browser/;Offizielles Protal der ESA zum Download von Sentinel Daten (Nachfolger von Sentinel Open Access Hub) - empfohlen;Physisch-Geographisch
+Copernicus Data Space Ecosystem;https://dataspace.copernicus.eu/browser/;Offizielles Protal der ESA zum Download von Sentinel Daten (Nachfolger von Sentinel Open Access Hub) - empfohlen;Fernerkundung
+USGS - United States Geological Survey Earthexplorer;https://earthexplorer.usgs.gov/;Offizielles Portal der USGS/NASA zum Download von u.a. Landsat-Daten - empfohlen;Global
+USGS - United States Geological Survey Earthexplorer;https://earthexplorer.usgs.gov/;Offizielles Portal der USGS/NASA zum Download von u.a. Landsat-Daten - empfohlen;Physisch-Geographisch
+USGS - United States Geological Survey Earthexplorer;https://earthexplorer.usgs.gov/;Offizielles Portal der USGS/NASA zum Download von u.a. Landsat-Daten - empfohlen;Fernerkundung
+Sentinel Hub EO Browser;https://apps.sentinel-hub.com/eo-browser/;Portal zum Download, v.a. aber zur Online Visualisierung von Sentinel-2 Daten vor dem Download (Download selbst empfohlen via Copernicus Data Space Ecosystem);Global
+Sentinel Hub EO Browser;https://apps.sentinel-hub.com/eo-browser/;Portal zum Download, v.a. aber zur Online Visualisierung von Sentinel-2 Daten vor dem Download (Download selbst empfohlen via Copernicus Data Space Ecosystem);Physisch-Geographisch
+Sentinel Hub EO Browser;https://apps.sentinel-hub.com/eo-browser/;Portal zum Download, v.a. aber zur Online Visualisierung von Sentinel-2 Daten vor dem Download (Download selbst empfohlen via Copernicus Data Space Ecosystem);Fernerkundung
+WorldStrat;https://worldstrat.github.io/;;Global
+WorldStrat;https://worldstrat.github.io/;;Physisch-Geographisch
+WorldStrat;https://worldstrat.github.io/;;Fernerkundung
+NASA Earthdata Search;https://search.earthdata.nasa.gov/search;;Global
+NASA Earthdata Search;https://search.earthdata.nasa.gov/search;;Physisch-Geographisch
+NASA Earthdata Search;https://search.earthdata.nasa.gov/search;;Fernerkundung
+MAXAR Open Data Programm;https://www.maxar.com/open-data;Hochaufgelöste Fernerkundungsdaten zu Naturkatastrophen;Global
+MAXAR Open Data Programm;https://www.maxar.com/open-data;Hochaufgelöste Fernerkundungsdaten zu Naturkatastrophen;Physisch-Geographisch
+MAXAR Open Data Programm;https://www.maxar.com/open-data;Hochaufgelöste Fernerkundungsdaten zu Naturkatastrophen;Fernerkundung
+MAXAR Open Data Programm;https://www.maxar.com/open-data;Hochaufgelöste Fernerkundungsdaten zu Naturkatastrophen;Katastrophen
+WorldView-2;https://tpm-ds.eo.esa.int/smcat/WorldView-2/;WorldView-2 Daten europäischer Staedte;Global
+WorldView-2;https://tpm-ds.eo.esa.int/smcat/WorldView-2/;WorldView-2 Daten europäischer Staedte;Physisch-Geographisch
+WorldView-2;https://tpm-ds.eo.esa.int/smcat/WorldView-2/;WorldView-2 Daten europäischer Staedte;Fernerkundung
+WorldView;https://tpm-ds.eo.esa.int/smcat/WorldView/;WorldView Daten europäischer Staedte;Global
+WorldView;https://tpm-ds.eo.esa.int/smcat/WorldView/;WorldView Daten europäischer Staedte;Physisch-Geographisch
+WorldView;https://tpm-ds.eo.esa.int/smcat/WorldView/;WorldView Daten europäischer Staedte;Fernerkundung
+gisgeogrpahy.com;https://gisgeography.com/free-satellite-imagery-data-list/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Global
+gisgeogrpahy.com;https://gisgeography.com/free-satellite-imagery-data-list/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Sonstige
+gisgeogrpahy.com;https://gisgeography.com/free-satellite-imagery-data-list/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Artikel
+EOS;https://eos.com/blog/free-satellite-imagery-sources/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Global
+EOS;https://eos.com/blog/free-satellite-imagery-sources/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Sonstige
+EOS;https://eos.com/blog/free-satellite-imagery-sources/;Artikel mit weiteren Datenquellen zu Fernerkundungsdaten;Artikel
+AVIRIS Classic Data Portal;https://aviris.jpl.nasa.gov/dataportal/;Hyperspektral-Daten einer Flugzeugbefliegung von Teilen der USA;USA
+AVIRIS Classic Data Portal;https://aviris.jpl.nasa.gov/dataportal/;Hyperspektral-Daten einer Flugzeugbefliegung von Teilen der USA;Physisch-Geographisch
+AVIRIS Classic Data Portal;https://aviris.jpl.nasa.gov/dataportal/;Hyperspektral-Daten einer Flugzeugbefliegung von Teilen der USA;Fernerkundung
+DLR - Deutsches Zentrum für Luft- und Raumfahrt (EOC);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Global
+DLR - Deutsches Zentrum für Luft- und Raumfahrt (EOC);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Physisch-Geographisch
+DLR - Deutsches Zentrum für Luft- und Raumfahrt (EOC);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Humangeographisch
+DLR - Deutsches Zentrum für Luft- und Raumfahrt (EOC);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Fernerkundung
+EOC - Earth Obersavation Center (DLR);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Global
+EOC - Earth Obersavation Center (DLR);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Physisch-Geographisch
+EOC - Earth Obersavation Center (DLR);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Humangeographisch
+EOC - Earth Obersavation Center (DLR);https://geoservice.dlr.de/web/;Verschiedenste Datensätze basierend auf Auswertungen von Fernerkundugsdaten durch das DLR;Fernerkundung
+Copernicus DEM25;https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1?tab=download;Digitales Geländemodell für Europa in 25m Auflösung;Europa
+Copernicus DEM25;https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1?tab=download;Digitales Geländemodell für Europa in 25m Auflösung;Physisch-Geographisch
+Copernicus DEM25;https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1?tab=download;Digitales Geländemodell für Europa in 25m Auflösung;DHM
+Copernicus DEM30;https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3;Globales digitales Höhenmodell in 30m Auflösung;Global
+Copernicus DEM30;https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3;Globales digitales Höhenmodell in 30m Auflösung;Physisch-Geographisch
+Copernicus DEM30;https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3;Globales digitales Höhenmodell in 30m Auflösung;DHM
+DGM200 Deutschland;http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div;Nationales Geländemodell für Deutschland in 200m Auflösung;Deutschland
+DGM200 Deutschland;http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div;Nationales Geländemodell für Deutschland in 200m Auflösung;Physisch-Geographisch
+DGM200 Deutschland;http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div;Nationales Geländemodell für Deutschland in 200m Auflösung;DHM
+OpenTopography;https://portal.opentopography.org/datasets;Portal für die Suche von digitalen Geländemodellen unteschiedlicher Anbieter;Global
+OpenTopography;https://portal.opentopography.org/datasets;Portal für die Suche von digitalen Geländemodellen unteschiedlicher Anbieter;Physisch-Geographisch
+OpenTopography;https://portal.opentopography.org/datasets;Portal für die Suche von digitalen Geländemodellen unteschiedlicher Anbieter;DHM
+USGS SRTM 90m Digital Elevation Database;http://srtm.csi.cgiar.org/;Globales digitales Höhenmodell in 90m Auflösung;Global
+USGS SRTM 90m Digital Elevation Database;http://srtm.csi.cgiar.org/;Globales digitales Höhenmodell in 90m Auflösung;Physisch-Geographisch
+USGS SRTM 90m Digital Elevation Database;http://srtm.csi.cgiar.org/;Globales digitales Höhenmodell in 90m Auflösung;DHM
+USGS SRTM 30m;https://earthexplorer.usgs.gov/;Globales digitales Geländemodell in 30m Auflösung;Global
+USGS SRTM 30m;https://earthexplorer.usgs.gov/;Globales digitales Geländemodell in 30m Auflösung;Physisch-Geographisch
+USGS SRTM 30m;https://earthexplorer.usgs.gov/;Globales digitales Geländemodell in 30m Auflösung;DHM
+JAXA Global ALOS 3D World;https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d_e.htm;;Global
+JAXA Global ALOS 3D World;https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d_e.htm;;Physisch-Geographisch
+JAXA Global ALOS 3D World;https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d_e.htm;;DHM
+OpenDEM;https://opendem.info/index.html;;Global
+OpenDEM;https://opendem.info/index.html;;Physisch-Geographisch
+OpenDEM;https://opendem.info/index.html;;DHM
+ESA STEP - Science Toolbox Exploitation Platform;https://step.esa.int/main/doc/tutorials/;Tutorials zur Verarbeitung von Sentinel-Daten im Open Source Programm der ESA „SNAP“;Global
+ESA STEP - Science Toolbox Exploitation Platform;https://step.esa.int/main/doc/tutorials/;Tutorials zur Verarbeitung von Sentinel-Daten im Open Source Programm der ESA „SNAP“;Sonstige
+ESA STEP - Science Toolbox Exploitation Platform;https://step.esa.int/main/doc/tutorials/;Tutorials zur Verarbeitung von Sentinel-Daten im Open Source Programm der ESA „SNAP“;Tutorials
+OpenGeoHUB - Summerschool;https://opengeohub.org/;Tutorials zu den Programmes GRASS GIS, R Studio, SAGA GIS und anderer Open Source Software;Global
+OpenGeoHUB - Summerschool;https://opengeohub.org/;Tutorials zu den Programmes GRASS GIS, R Studio, SAGA GIS und anderer Open Source Software;Sonstige
+OpenGeoHUB - Summerschool;https://opengeohub.org/;Tutorials zu den Programmes GRASS GIS, R Studio, SAGA GIS und anderer Open Source Software;Tutorials
+EO-College;https://eo-college.org/welcome;Umfassende und anspruchsvolle Tutorials zu Fernerkundungsthemen;Global
+EO-College;https://eo-college.org/welcome;Umfassende und anspruchsvolle Tutorials zu Fernerkundungsthemen;Sonstige
+EO-College;https://eo-college.org/welcome;Umfassende und anspruchsvolle Tutorials zu Fernerkundungsthemen;Tutorials
+ArcGIS Tutorials;https://learn.arcgis.com/de/gallery/;Tutorials unterschiedlicher Schwierigkeitsstufe mit verschiedensten Projektideen;Global
+ArcGIS Tutorials;https://learn.arcgis.com/de/gallery/;Tutorials unterschiedlicher Schwierigkeitsstufe mit verschiedensten Projektideen;Sonstige
+ArcGIS Tutorials;https://learn.arcgis.com/de/gallery/;Tutorials unterschiedlicher Schwierigkeitsstufe mit verschiedensten Projektideen;Tutorials
+IDB - Index DataBase;https://www.indexdatabase.de/;Auflistung verschiedener spektraler Indices mit Verweis zu den wissenschaftlichen Publikationen;Global
+IDB - Index DataBase;https://www.indexdatabase.de/;Auflistung verschiedener spektraler Indices mit Verweis zu den wissenschaftlichen Publikationen;Sonstige
+IDB - Index DataBase;https://www.indexdatabase.de/;Auflistung verschiedener spektraler Indices mit Verweis zu den wissenschaftlichen Publikationen;Informationsportal
+IDB - Index DataBase;https://www.indexdatabase.de/;Auflistung verschiedener spektraler Indices mit Verweis zu den wissenschaftlichen Publikationen;Fernerkundung
+AgEagle;https://ageagle.com/resources/?filter_by=data-set;Testdaten von Drohnenbefliegungen mit unterschiedlichen Sensoren;Global
+AgEagle;https://ageagle.com/resources/?filter_by=data-set;Testdaten von Drohnenbefliegungen mit unterschiedlichen Sensoren;Physisch-Geographisch
+AgEagle;https://ageagle.com/resources/?filter_by=data-set;Testdaten von Drohnenbefliegungen mit unterschiedlichen Sensoren;Fernerkundung
+Adobe Color Wheel;https://color.adobe.com/de/create/color-wheel;Portal für das Zusammenstellen von Farbpaletten;Sonstige
+Adobe Color Wheel;https://color.adobe.com/de/create/color-wheel;Portal für das Zusammenstellen von Farbpaletten;Informationsportal
+Adobe Color Wheel;https://color.adobe.com/de/create/color-wheel;Portal für das Zusammenstellen von Farbpaletten;Visualisierung
+Color Brewer;https://colorbrewer2.org/;Simples Portal für die Zusammenstellung von Farbpaletten;Sonstige
+Color Brewer;https://colorbrewer2.org/;Simples Portal für die Zusammenstellung von Farbpaletten;Informationsportal
+Color Brewer;https://colorbrewer2.org/;Simples Portal für die Zusammenstellung von Farbpaletten;Visualisierung
+Creative Bloq;https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120;Artikel mit Beispielen für die Kombination verschiedener Schriftarten;Sonstige
+Creative Bloq;https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120;Artikel mit Beispielen für die Kombination verschiedener Schriftarten;Informationsportal
+Creative Bloq;https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120;Artikel mit Beispielen für die Kombination verschiedener Schriftarten;Visualisierung
+UCGIS - University Consortium for Geographic Information Science;https://gistbok.ucgis.org/bok-topics/visual-hierarchy-and-layout;Artikel mit Schaubeispielen für die Anordnung von Kartenelementen in einem Drucklayout;Sonstige
+UCGIS - University Consortium for Geographic Information Science;https://gistbok.ucgis.org/bok-topics/visual-hierarchy-and-layout;Artikel mit Schaubeispielen für die Anordnung von Kartenelementen in einem Drucklayout;Informationsportal
+UCGIS - University Consortium for Geographic Information Science;https://gistbok.ucgis.org/bok-topics/visual-hierarchy-and-layout;Artikel mit Schaubeispielen für die Anordnung von Kartenelementen in einem Drucklayout;Visualisierung
+The Mapscaping Podcast;https://mapscaping.com/podcasts/;sehr vielfältiger Podcast zu verschiedentsten Themen der Geoinformatik inklusive wechselenden Gästen aus der Wirtschaft und Forschung. Durchaus anspruchsvoll, aber in der Regel sehr verständlich erklärt;Sonstige
+The Mapscaping Podcast;https://mapscaping.com/podcasts/;sehr vielfältiger Podcast zu verschiedentsten Themen der Geoinformatik inklusive wechselenden Gästen aus der Wirtschaft und Forschung. Durchaus anspruchsvoll, aber in der Regel sehr verständlich erklärt;Informationsportal
+Spectral Reflectance;https://www.spectralreflectance.space;Newsletter zu Neuigkeiten und Hintergrundberichten im Themenkomplex der Fernerkundung;Sonstige
+Spectral Reflectance;https://www.spectralreflectance.space;Newsletter zu Neuigkeiten und Hintergrundberichten im Themenkomplex der Fernerkundung;Informationsportal
+SAGA GIS;https://saga-gis.sourceforge.io/en/index.html;Open Source GIS mit vielfältigen Anwendungsfeldern für Rasterdaten. Sehr gute wissenschaftliche Dokumentation der Werkzeuge.;Sonstige
+SAGA GIS;https://saga-gis.sourceforge.io/en/index.html;Open Source GIS mit vielfältigen Anwendungsfeldern für Rasterdaten. Sehr gute wissenschaftliche Dokumentation der Werkzeuge.;Software
+QGIS;https://www.qgis.org;Wahrscheinlich das weltweit meistgenutzte Open Source GIS für Raster- und Vektordaten. Erweiterbar durch viele Plugins.;Sonstige
+QGIS;https://www.qgis.org;Wahrscheinlich das weltweit meistgenutzte Open Source GIS für Raster- und Vektordaten. Erweiterbar durch viele Plugins.;Software
+GRASS GIS;https://grass.osgeo.org;Open Source GIS für Raster- und Vektordatensätze. Umfangreichere Werkzeuge als QGIS, jedoch nicht so Anwenderfreundlich.;Sonstige
+GRASS GIS;https://grass.osgeo.org;Open Source GIS für Raster- und Vektordatensätze. Umfangreichere Werkzeuge als QGIS, jedoch nicht so Anwenderfreundlich.;Software
+ArcGIS Pro;https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview;Das wahrscheinlich weitverbreiteste kommerzielles GIS der Firma Esri. Oft genutzt von Behörden, in der freien Wirtschaft, aber auch in der Wissenschaft. Sehr guter Support, wenn man eine Lizenz besitzt.;Sonstige
+ArcGIS Pro;https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview;Das wahrscheinlich weitverbreiteste kommerzielles GIS der Firma Esri. Oft genutzt von Behörden, in der freien Wirtschaft, aber auch in der Wissenschaft. Sehr guter Support, wenn man eine Lizenz besitzt.;Software
+SNAP;https://step.esa.int/main/download/snap-download/;Fernerkundungssoftware der ESA mit Werkzeugen, die (u.a.) auf die Sentinel-Daten zugeschnitten sind und eine vollständge Prozessierung von Fernerkundungsdaten zulässt.;Sonstige
+SNAP;https://step.esa.int/main/download/snap-download/;Fernerkundungssoftware der ESA mit Werkzeugen, die (u.a.) auf die Sentinel-Daten zugeschnitten sind und eine vollständge Prozessierung von Fernerkundungsdaten zulässt.;Software
+Google Earth Engine;https://earthengine.google.com;Webgestütztes Fernerkundungsprogramm von Google, das die schnelle Verarbeitung und Auswertung von großen Mengen an frei verfügbaren Fernerkundungsdaten (u.a. Sentinel- & Landsat-Missionen) zulässt. Bedienung mithilfe der Skriptsprache Javascript.;Sonstige
+Google Earth Engine;https://earthengine.google.com;Webgestütztes Fernerkundungsprogramm von Google, das die schnelle Verarbeitung und Auswertung von großen Mengen an frei verfügbaren Fernerkundungsdaten (u.a. Sentinel- & Landsat-Missionen) zulässt. Bedienung mithilfe der Skriptsprache Javascript.;Software
+Agisoft Metashape;https://www.agisoft.com;Kommerzielle Software für die Prozessierung von photogrammetrischen Daten oder Drohnenaufnahmen.;Sonstige
+Agisoft Metashape;https://www.agisoft.com;Kommerzielle Software für die Prozessierung von photogrammetrischen Daten oder Drohnenaufnahmen.;Software
+FastFlood;https://fastflood.org;Frei verfügbare Anwendung für eine schnelle, aber akkurate Hochwassermodellierung mithilfe von globalen oder eigenen Datensätzen.;Sonstige
+FastFlood;https://fastflood.org;Frei verfügbare Anwendung für eine schnelle, aber akkurate Hochwassermodellierung mithilfe von globalen oder eigenen Datensätzen.;Software
+Geodaten Universitätsstadt Tübingen;https://www.tuebingen.de/33688.html#/34674;Administrative Daten der Stadt Tübingen;Regional-Lokal
+Geodaten Universitätsstadt Tübingen;https://www.tuebingen.de/33688.html#/34674;Administrative Daten der Stadt Tübingen;Humangeographisch
+Geodaten Universitätsstadt Tübingen;https://www.tuebingen.de/33688.html#/34674;Administrative Daten der Stadt Tübingen;Administrativ
+Geodaten Universitätsstadt Tübingen;https://www.tuebingen.de/33688.html#/34674;Administrative Daten der Stadt Tübingen;Staedte
+Geoportal Stadt Stuttgart;https://www.stuttgart.de/leben/bauen/geoportal/;Administrative, Statistische und Historische Daten der Stadt Stuttgart;Regional-Lokal
+Geoportal Stadt Stuttgart;https://www.stuttgart.de/leben/bauen/geoportal/;Administrative, Statistische und Historische Daten der Stadt Stuttgart;Humangeographisch
+Geoportal Stadt Stuttgart;https://www.stuttgart.de/leben/bauen/geoportal/;Administrative, Statistische und Historische Daten der Stadt Stuttgart;Administrativ
+Geoportal Stadt Stuttgart;https://www.stuttgart.de/leben/bauen/geoportal/;Administrative, Statistische und Historische Daten der Stadt Stuttgart;Staedte
+Geoportal Stadt Stuttgart;https://www.stuttgart.de/leben/bauen/geoportal/;Administrative, Statistische und Historische Daten der Stadt Stuttgart;Historisch
+Geodaten Stadt Zürich;https://www.stadt-zuerich.ch/geodaten/;Sehr umfangreiches Geoportal am Beispiel der Stadt Zürich.;Regional-Lokal
+Geodaten Stadt Zürich;https://www.stadt-zuerich.ch/geodaten/;Sehr umfangreiches Geoportal am Beispiel der Stadt Zürich.;Humangeographisch
+Geodaten Stadt Zürich;https://www.stadt-zuerich.ch/geodaten/;Sehr umfangreiches Geoportal am Beispiel der Stadt Zürich.;Administrativ
+Geodaten Stadt Zürich;https://www.stadt-zuerich.ch/geodaten/;Sehr umfangreiches Geoportal am Beispiel der Stadt Zürich.;Staedte
+Geodaten Stadt Zürich;https://www.stadt-zuerich.ch/geodaten/;Sehr umfangreiches Geoportal am Beispiel der Stadt Zürich.;Historisch
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Global
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Physisch-Geographisch
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Sonstige
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Informationsportal
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Katastrophen
+CEMS - Copernicus Emergeny Management Service;https://emergency.copernicus.eu;Katastrophenteam von Copernicus. Die Website gibt detaillierten Einblick in die Arbeit der Untersützung in Krisengebieten (z.B. Starkregen und Fluten in Südspanien EMSR773) und stellt darüber hinaus auch Daten der Kampagnen zu Verfügung.;Fernerkundung
+Global Biodiversity Information Facility (GBIF);https://www.gbif.org/;Umfangreiche biogeographische Datenbank, die vorkommen vieler Spezies bereithält;Global
+Global Biodiversity Information Facility (GBIF);https://www.gbif.org/;Umfangreiche biogeographische Datenbank, die vorkommen vieler Spezies bereithält;Physisch-Geographisch
+Global Biodiversity Information Facility (GBIF);https://www.gbif.org/;Umfangreiche biogeographische Datenbank, die vorkommen vieler Spezies bereithält;Flora-Fauna
+Global Biodiversity Information Facility (GBIF);https://www.gbif.org/;Umfangreiche biogeographische Datenbank, die vorkommen vieler Spezies bereithält;Umweltdaten
+Thünen Atlas;https://atlas.thuenen.de;Datenbank auf Grundlage verschiedester Projekte in den Themenbereichen Landwirtschaft, Forst, Meere. (Auch als WFS abrufbar);Europa
+Thünen Atlas;https://atlas.thuenen.de;Datenbank auf Grundlage verschiedester Projekte in den Themenbereichen Landwirtschaft, Forst, Meere. (Auch als WFS abrufbar);Physisch-Geographisch
+Thünen Atlas;https://atlas.thuenen.de;Datenbank auf Grundlage verschiedester Projekte in den Themenbereichen Landwirtschaft, Forst, Meere. (Auch als WFS abrufbar);Flora-Fauna
+Thünen Atlas;https://atlas.thuenen.de;Datenbank auf Grundlage verschiedester Projekte in den Themenbereichen Landwirtschaft, Forst, Meere. (Auch als WFS abrufbar);Umweltdaten
+Thünen Atlas;https://atlas.thuenen.de;Datenbank auf Grundlage verschiedester Projekte in den Themenbereichen Landwirtschaft, Forst, Meere. (Auch als WFS abrufbar);Hydrologie
+AG Geoinformatik Tübingen - Tutorials, Tipps & Nützliches;https://geotue.wordpress.com;Eine Sammlung verschiedenster Themen rund um die Geoinformatik insbesondere nützliche Tutorials, um Grundlegendes aufzufrischen. (Seite ist noch im Aufbau!);Sonstige
+AG Geoinformatik Tübingen - Tutorials, Tipps & Nützliches;https://geotue.wordpress.com;Eine Sammlung verschiedenster Themen rund um die Geoinformatik insbesondere nützliche Tutorials, um Grundlegendes aufzufrischen. (Seite ist noch im Aufbau!);Tutorials
+Global soil moisture product (Sentinel-1, 2016-2022);https://doi.pangaea.de/10.1594/PANGAEA.968754;A global soil moisture product at 1 km resolution based on Sentinel-1 (2016-2022) [dataset]. (Fan et al. 2025);Global
+Global soil moisture product (Sentinel-1, 2016-2022);https://doi.pangaea.de/10.1594/PANGAEA.968754;A global soil moisture product at 1 km resolution based on Sentinel-1 (2016-2022) [dataset]. (Fan et al. 2025);Physisch-Geographisch
+Global soil moisture product (Sentinel-1, 2016-2022);https://doi.pangaea.de/10.1594/PANGAEA.968754;A global soil moisture product at 1 km resolution based on Sentinel-1 (2016-2022) [dataset]. (Fan et al. 2025);Geologie-Boden
+Global soil moisture product (Sentinel-1, 2016-2022);https://doi.pangaea.de/10.1594/PANGAEA.968754;A global soil moisture product at 1 km resolution based on Sentinel-1 (2016-2022) [dataset]. (Fan et al. 2025);Hydrologie
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Global
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Humangeographisch
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Sonstige
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Informationsportal
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Historisch
+ESRI World Imagery Wayback;https://livingatlas.arcgis.com/wayback/;Webportal zur Ansicht alter hochaufgelöster Satellitenbilder (vgl. Google Maps) bis ins Jahr 2014. Nützlich um z.B. den Zustand eines Untersuchungsgebietes in den letzten 10 Jahren bewerten zu können.;Landbedeckung
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Bayern
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Physisch-Geographisch
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Humangeographisch
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Geologie-Boden
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Flora-Fauna
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Umweltdaten
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Administrativ
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Hydrologie
+LfU - Bayrisches Landesamt für Umwelt (Umweltatlas);https://www.lfu.bayern.de/umweltdaten/umweltdaten_web/index.htm;Sammlung offizieller Karten zu physisch-geographischen Themen wie z.B. der Bodenkarte oder der Geologischen Karte Bayerns (und vieles mehr, Georisiken, Lärm, Abfall, etc.).;Klima-Wetter
